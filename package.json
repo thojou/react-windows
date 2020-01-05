@@ -1,5 +1,5 @@
 {
-  "name": "react-windows",
+  "name": "@tjoussen/react-windows",
   "version": "1.0.0-alpha",
   "description": "React Components for Window dialogs build on top of react-rnd",
   "license": "MIT",
@@ -75,5 +75,8 @@
   },
   "files": [
     "lib"
-  ]
+  ],
+  "release": {
+    "branch": "next"
+  }
 }
