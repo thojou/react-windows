@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import renderer from "react-test-renderer";
-import Minimized from "../Minimized";
+import Minimized from "../minimized";
 
 describe('Minimized', () => {
     beforeAll(() => {
